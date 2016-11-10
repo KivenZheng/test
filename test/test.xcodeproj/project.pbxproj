@@ -193,6 +193,7 @@
 				TargetAttributes = {
 					FDEE3C181DD3FD9D00929D26 = {
 						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = SH79M8Y3KT;
 						ProvisioningStyle = Automatic;
 					};
 					FDEE3C2C1DD3FD9D00929D26 = {
@@ -410,6 +411,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = SH79M8Y3KT;
 				INFOPLIST_FILE = test/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.Kevin.SwiftP.test;
@@ -422,6 +424,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = SH79M8Y3KT;
 				INFOPLIST_FILE = test/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.Kevin.SwiftP.test;
